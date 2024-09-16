@@ -1,1 +1,1 @@
-
+This folder contains padded vggish representations both for train and test sets, for which entities with missing values (when the target variables which are the lingustic features are missing) are dropped. 
